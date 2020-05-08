@@ -1,0 +1,6 @@
+public class prueba{
+	private int x=2;
+	public int y=5;
+	public boolean verde=false;
+	private string ej="hola";
+}
